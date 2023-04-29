@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c1cdd02.css",
+    "main.js": "/static/js/main.a19ae452.js",
+    "static/js/787.b92b4ef7.chunk.js": "/static/js/787.b92b4ef7.chunk.js",
+    "static/media/meeting.jpg": "/static/media/meeting.57872ec19781bf6060a8.jpg",
+    "static/media/wideBG.png": "/static/media/wideBG.47cb260e223e56d62ea4.png",
+    "static/media/consult.jpg": "/static/media/consult.7684ae419bab8b07faa3.jpg",
+    "static/media/career.jpg": "/static/media/career.85f97935573089580bba.jpg",
+    "static/media/leader.jpg": "/static/media/leader.1d2cee63374eafefd7cb.jpg",
+    "static/media/aboutBG2.jpg": "/static/media/aboutBG2.cf7f5748bc594d5c83cd.jpg",
+    "static/media/analyze.jpg": "/static/media/analyze.e8ebe7b197da8456ccd6.jpg",
+    "static/media/success.jpg": "/static/media/success.51ea72c5be3b025af80c.jpg",
+    "static/media/ceo.jpg": "/static/media/ceo.0a0f7c7c9829f6da21b9.jpg",
+    "static/media/logo1.png": "/static/media/logo1.334168a7226b29581161.png",
+    "index.html": "/index.html",
+    "main.2c1cdd02.css.map": "/static/css/main.2c1cdd02.css.map",
+    "main.a19ae452.js.map": "/static/js/main.a19ae452.js.map",
+    "787.b92b4ef7.chunk.js.map": "/static/js/787.b92b4ef7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c1cdd02.css",
+    "static/js/main.a19ae452.js"
+  ]
+}
