@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.42fccf4c.css",
-    "main.js": "/static/js/main.fa69d4e9.js",
+    "main.css": "/static/css/main.9b4ecbce.css",
+    "main.js": "/static/js/main.3f1e3d46.js",
     "static/js/787.b92b4ef7.chunk.js": "/static/js/787.b92b4ef7.chunk.js",
+    "static/media/bg.png": "/static/media/bg.530fe8e3ca48a9ddf514.png",
     "static/media/meeting.jpg": "/static/media/meeting.57872ec19781bf6060a8.jpg",
-    "static/media/wideBG.png": "/static/media/wideBG.47cb260e223e56d62ea4.png",
+    "static/media/step.jpg": "/static/media/step.bcdc0c086bc575d488b4.jpg",
+    "static/media/king.jpg": "/static/media/king.4c6e2eaf57aabeaf9f3e.jpg",
     "static/media/consult.jpg": "/static/media/consult.7684ae419bab8b07faa3.jpg",
     "static/media/career.jpg": "/static/media/career.85f97935573089580bba.jpg",
     "static/media/leader.jpg": "/static/media/leader.1d2cee63374eafefd7cb.jpg",
@@ -14,12 +16,12 @@
     "static/media/ceo.jpg": "/static/media/ceo.0a0f7c7c9829f6da21b9.jpg",
     "static/media/logo1.png": "/static/media/logo1.334168a7226b29581161.png",
     "index.html": "/index.html",
-    "main.42fccf4c.css.map": "/static/css/main.42fccf4c.css.map",
-    "main.fa69d4e9.js.map": "/static/js/main.fa69d4e9.js.map",
+    "main.9b4ecbce.css.map": "/static/css/main.9b4ecbce.css.map",
+    "main.3f1e3d46.js.map": "/static/js/main.3f1e3d46.js.map",
     "787.b92b4ef7.chunk.js.map": "/static/js/787.b92b4ef7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42fccf4c.css",
-    "static/js/main.fa69d4e9.js"
+    "static/css/main.9b4ecbce.css",
+    "static/js/main.3f1e3d46.js"
   ]
 }
